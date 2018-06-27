@@ -1,4 +1,4 @@
-Welcome. Prepare to be [Invoked](invoke.html).
+Welcome. Prepare to be [INVOKED.]({{ "/assets/style.css" | relative_url }}).
 
 ## Welcome to GitHub Pages
 
