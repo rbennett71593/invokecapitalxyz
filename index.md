@@ -1,4 +1,4 @@
-Welcome. Prepare to be Invoked.
+Welcome. Prepare to be [Invoked](invoke.html).
 
 ## Welcome to GitHub Pages
 
